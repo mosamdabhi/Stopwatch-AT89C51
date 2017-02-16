@@ -5,6 +5,8 @@
  *  Author: Mosam
  */ 
 
+// Stopwatch Timer with 7-segment display on AT89C51
+
 #include<reg51.h>
 #define msec 1
 unsigned int second1,second2;
